@@ -70,8 +70,8 @@ terminado==0.9.1
 tensorboard==2.4.0
 testpath==0.4.4
 tifffile==2020.10.1
-torch==1.7.0
-torchvision==0.8.1
+# torch==1.7.0
+# torchvision==0.8.1
 tornado==6.1
 tqdm==4.51.0
 traitlets==5.0.5
@@ -80,3 +80,6 @@ wcwidth==0.2.5
 webencodings==0.5.1
 widgetsnbextension==3.5.1
 zipp==3.4.0
+natsort
+lpips
+pandas
